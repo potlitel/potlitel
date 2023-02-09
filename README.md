@@ -3,7 +3,7 @@ Hi 👋 My name is Alain Jorge Acuña
 
 * 🌍  I'm based in Habana
 * ✉️  You can contact me at [potlitel@gmail.com](mailto:potlitel@gmail.com)
-* 🧠  I'm learning Reactjs
+* 🧠  I'm learning Reactjs and Angularjs
 
 ### Skills
 
